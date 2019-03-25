@@ -1,0 +1,9 @@
+
+ 
+ ## 
+ 
+ *  Allow the camera access
+
+
+
+ 
